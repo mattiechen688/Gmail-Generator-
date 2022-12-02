@@ -6,7 +6,7 @@ ________________________________________________
 The purpose of this script is to create possible email combinations for burner accounts.
 Burner meaning, it should NOT be used as a main account and should not be used for anything important.
 This is an opensource script, so feel free to change the code however you like.
-The code may be pretty messy, as I'm generally new to python at the time this was created.
+The code is pretty messy, as I'm generally new to python at the time this was created.
 
 
 -DISCLAMER
